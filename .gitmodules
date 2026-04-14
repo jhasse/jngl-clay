@@ -1,0 +1,9 @@
+[submodule "jngl"]
+	path = jngl
+	url = https://github.com/jhasse/jngl.git
+[submodule "ClayMan"]
+	path = ClayMan
+	url = https://github.com/TimothyHoytBSME/ClayMan
+[submodule "clay"]
+	path = clay
+	url = https://github.com/nicbarker/clay

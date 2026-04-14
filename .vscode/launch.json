@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "lldb-dap",
+            "request": "launch",
+            "name": "full-example",
+            "program": "build/full-example",
+            "preLaunchTask": "build",
+        }
+    ]
+}
